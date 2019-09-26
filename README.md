@@ -1,6 +1,6 @@
 # React Boilerplate
 
-A central component and entry point of edly services which integrates all of the edly services (LMS, Studio, Marketing and Analytics) in one place
+A central component and entry point of react services
 
 ### Local Development
 
