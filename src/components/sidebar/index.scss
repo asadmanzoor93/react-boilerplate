@@ -1,0 +1,30 @@
+@import "../../assets/sass/abstracts/variables";
+
+.sidebar {
+	background: $color__gray-lighter;
+	min-height: calc(100vh - 132px);
+}
+
+.side-nav {
+	list-style: none;
+	margin: 0 -15px;
+	padding: 15px 0 0;
+
+	a {
+		display: block;
+		padding: 6px 15px;
+		color: $color__text-base;
+		text-decoration: none;
+		font-size: 14px;
+
+		&:focus,
+		&:hover {
+			background: darken($color__gray-lighter, 10%);
+		}
+
+		&.active {
+			background: $color__brand;
+			color: white;
+		}
+	}
+}
