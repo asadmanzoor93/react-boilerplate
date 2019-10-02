@@ -42,7 +42,7 @@ const SideBarNav = () => {
                 icon={Icons.faChartLine}
                 style={{ width: '18px', marginRight: '7px' }}
               />
-              <span>Edly Insights</span>
+              <span>Insights</span>
             </NavLink>
           </li>
           <li>

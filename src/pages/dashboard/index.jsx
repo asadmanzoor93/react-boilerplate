@@ -1,9 +1,11 @@
 import React from 'react';
+import MonthlyActiveUsers from '../../components/maus-chart';
 
 const Dashboard = () => {
   return (
-    <div className="row">
-      <h1>Welcome to Edly Panel Dashboard!</h1>
+    <div>
+      <h1>Welcome to Dashboard!</h1>
+      <MonthlyActiveUsers />
     </div>
   );
 };

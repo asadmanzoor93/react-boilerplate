@@ -10,7 +10,7 @@ const Header = () => {
         <Navbar.Brand href="/dashboard">
           <img
             src={SiteLogo}
-            alt="edly by arbisoft"
+            alt="site logoo"
             className="logo"
             height="48"
             width="70"
@@ -20,9 +20,7 @@ const Header = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
             <Nav.Link>Marketing Site</Nav.Link>
-            <Nav.Link>LMS</Nav.Link>
-            <Nav.Link>Studio</Nav.Link>
-            <Nav.Link>WordPress Admin</Nav.Link>
+            <Nav.Link>Admin Panel</Nav.Link>
             <NavDropdown title="More" id="basic-nav-dropdown" alignRight>
               <NavDropdown.Item href="#">Action</NavDropdown.Item>
               <NavDropdown.Item href="#">Another action</NavDropdown.Item>

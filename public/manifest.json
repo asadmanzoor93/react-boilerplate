@@ -1,6 +1,6 @@
 {
-  "short_name": "Edly Panel",
-  "name": "Edly panel is entry point of edly services which integrates all of the edly services (LMS, Studio, Marketing and Analytics) in one place.",
+  "short_name": "Panel",
+  "name": "panel is entry point of application which integrates all of the services in one place.",
   "icons": [
     {
       "src": "favicon.ico",
