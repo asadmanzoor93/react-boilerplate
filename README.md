@@ -2,6 +2,10 @@
 
 A central component and entry point of react services
 
+### Dashboard
+
+![dashboard](https://user-images.githubusercontent.com/17013371/66033714-43760400-e521-11e9-89d0-ad6fa6fcfa93.png)
+
 ### Supported By:
 
 #### Charts.js
@@ -15,6 +19,7 @@ A central component and entry point of react services
 #### Prettier
 
 ![prettier-1280x720](https://user-images.githubusercontent.com/17013371/66027279-00616400-e514-11e9-9626-02e7cd746df5.png)
+
 
 ### Local Development
 
