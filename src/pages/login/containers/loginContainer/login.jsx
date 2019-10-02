@@ -40,7 +40,7 @@ class LoginContainer extends React.Component {
     return (
       <Col md={4} className={'ml-auto mr-auto'}>
         {' '}
-        <h2>Edly Panel Login</h2>
+        <h2>Panel Login</h2>
         <Form name="form" onSubmit={this.handleSubmit}>
           {' '}
           <Form.Group
